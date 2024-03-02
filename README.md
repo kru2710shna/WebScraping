@@ -1,5 +1,3 @@
-## Projects: 1
-
 ### Project #1 - Wikipedia to CSV File
 
 In this project, we aim to extract data from the Wikipedia page listing the top 100 largest companies in the world and save it into a CSV file.
